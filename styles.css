@@ -1,4 +1,4 @@
- body {
+  body {
     background-color: #f8f8f8;
     font-family: Arial, sans-serif;
 }
@@ -8,10 +8,6 @@
     padding: 20px;
     width: 300px;
     margin: auto;
-}
-
-.book-library h1 {
-    text-align: center;
 }
 
 .book {
